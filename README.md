@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a meticulous and self-motivated web developer with experience building websites. A team player with an eye for detail and excellent communication skills. I am an enthusiast for programming, open-source, cloud-computing, marketing and content writing with a strong creative and analytical skills.
 <!--
 **nigotia30/nigotia30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
