@@ -1,5 +1,11 @@
 ### Hi there 👋
 I am a meticulous and self-motivated web developer with experience building websites. A team player with an eye for detail and excellent communication skills. I am an enthusiast for programming, open-source, cloud-computing, marketing and content writing with a strong creative and analytical skills.
+
+🌱 What do I do?
+
+✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer. Currently, I am looking for internships and research projects in the field of Computer science and engineering. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills. I am looking for growth.
+✔️My activities are much beyond my stream of education. I am involved in a lot of organizational works in college related to clubs, fests and workshops and helped in growing many communities. Apart from this, I love the marketing field. I am a keen observer and always inquisitive to learn new things. I fit beautifully to the environment and add to the diversity of the team and research has shown that diversity often makes for better, most successful teams.
+
 <!--
 **nigotia30/nigotia30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
